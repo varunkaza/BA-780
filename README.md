@@ -1,6 +1,8 @@
 # BA-780
 Git Hub Repository for 'intro to BA - 780'.
+
 Contributors: Asra Ahmed, Ahmed Farid Khan, Qianyi Mo, Xiang Liu, Xinyuan Hu
+
 Citations:
 https://cars.usnews.com/cars-trucks/advice/best-luxury-car-brands
 https://gunthertoodys.com/the-ford-mustang-americas-car/
