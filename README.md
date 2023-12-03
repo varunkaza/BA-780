@@ -1,7 +1,7 @@
 # BA-780
 Git Hub Repository for 'intro to BA - 780'.
 
-Contributors: Asra Ahmed, Ahmed Farid Khan, Qianyi Mo, Xiang Liu, Xinyuan Hu
+Contributors: Asra Ahmed, Ahmed Farid Khan, Qianyi Mo, Xiang Liu, Xinyuan Hu,Varun Kaza
 
 Citations:
 
